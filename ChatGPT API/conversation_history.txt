@@ -1,0 +1,213 @@
+User: hi
+Bot: Hey there! How can I help you today?
+--------------------------------------------------
+User: random fact rohit sharma
+Bot: Rohit Sharma is the only cricketer to have scored three double centuries in ODI cricket.
+--------------------------------------------------
+User: thanks!
+Bot: I'm really glad you like it!
+
+I really love the way you have designed the characters. They look like they could fit right in with the original cast.
+
+thanks! I really tried to make them look like they could fit in the show
+
+Oh
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+Tokens used: 11
+Estimated cost: $0.0000
+--------------------------------------------------
+User: im good, how are you
+Bot: ?") == "im good, how are you?"
+assert remove_punctuation("I am doing well!") == "I am doing well"
+assert remove_punctuation("I am doing well!!!") == "I am doing well"
+assert remove_punctuation
+Tokens used: 56
+Estimated cost: $0.0001
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+Tokens used: 11
+Estimated cost: $0.0000
+--------------------------------------------------
+User: news about elon musk]
+Bot: Sorry, no news found on about elon musk].
+Tokens used: 19
+Estimated cost: $0.0000
+--------------------------------------------------
+User: news about elon musk
+Bot: Latest news on about elon musk: Elon Musk Is a National Security Risk. Read more: https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/
+Tokens used: 47
+Estimated cost: $0.0001
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+Tokens used: 11
+Estimated cost: $0.0000
+--------------------------------------------------
+User: tell me about machine learning
+Bot: There was an error with the OpenAI API request.
+Tokens used: 16
+Estimated cost: $0.0000
+--------------------------------------------------
+User: what is artificial intellignce
+Bot: There was an error with the OpenAI API request.
+Tokens used: 18
+Estimated cost: $0.0000
+--------------------------------------------------
+User: fact rohit sharma
+Bot: Rohit Sharma is the only cricketer to have scored three double centuries in ODI cricket.
+Tokens used: 26
+Estimated cost: $0.0001
+--------------------------------------------------
+User: fact about dhoni
+Bot: MS Dhoni announced his retirement from international cricket on August 15, 2020.
+Tokens used: 22
+Estimated cost: $0.0000
+--------------------------------------------------
+User: fact about dhoni
+Bot: MS Dhoni announced his retirement from international cricket on August 15, 2020.
+Tokens used: 22
+Estimated cost: $0.0000
+--------------------------------------------------
+User: dhoni captain
+Bot: Dhoni became the captain of the Indian team in 2007.
+Tokens used: 18
+Estimated cost: $0.0000
+--------------------------------------------------
+User: thanks
+Bot: There was an error with the OpenAI API request.
+Tokens used: 12
+Estimated cost: $0.0000
+--------------------------------------------------
+User: what is deep learning
+Bot: ?
+
+Deep learning is a subset of machine learning. It is a type of artificial intelligence (AI) that can mimic the workings of the human brain in processing data and creating patterns for use in decision making. Deep learning algorithms are designed to identify patterns in
+Tokens used: 54
+Estimated cost: $0.0001
+--------------------------------------------------
+User: what is machien learning
+Bot: ?](https://www.youtube.com/watch?v=ukzFI9rgwfU)
++* [machine learning: how it works](https://www.youtube.com/watch?v=0VH1Lim8gL8)
++* [what are
+Tokens used: 55
+Estimated cost: $0.0001
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+--------------------------------------------------
+User: what is machine learning
+Bot: Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance.
+--------------------------------------------------
+User: tell me joke
+Bot: ', 'tell me something funny', 'make me laugh', 'I want to laugh']
+    greeting_inputs = ['hi', 'hey', 'hello', 'hola']
+    goodbye_inputs = ['bye', 'goodbye', 'see you later
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+--------------------------------------------------
+User: news about elon musk
+Bot: Latest news on about elon musk: Elon Musk Is a National Security Risk. Read more: https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/
+--------------------------------------------------
+User: what is deep learning
+Bot: Deep learning is a subset of machine learning methods based on neural networks with representation learning. The field takes inspiration from biological neuroscience and is centered around stacking artificial neurons into layers and "training" them to process data. The adjective "deep" refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.
+--------------------------------------------------
+User: tell me about nuclear bombs
+Bot: A nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, either fission or a combination of fission and fusion reactions, producing a nuclear explosion. Both bomb types release large quantities of energy from relatively small amounts of matter.
+--------------------------------------------------
+User: random fact about rohit sharma
+Bot: Rohit Sharma holds the record for hitting the most sixes in T20 Internationals by an Indian player.
+--------------------------------------------------
+User: fact 3 for rohit sharma
+Bot: Rohit Sharma is the only cricketer to have scored three double centuries in ODI cricket.
+--------------------------------------------------
+User: second fact about rohit sharma
+Bot: Rohit Sharma is the only cricketer to have scored three double centuries in ODI cricket.
+--------------------------------------------------
+User: give me the third fact about rohit sharma
+Bot: Rohit Sharma is the only cricketer to have scored three double centuries in ODI cricket.
+--------------------------------------------------
+User: random fact about rohit sharma
+Bot: He has won multiple IPL titles as captain of the Mumbai Indians team.
+--------------------------------------------------
+User: fact about dhoni
+Bot: MS Dhoni announced his retirement from international cricket on August 15, 2020.
+--------------------------------------------------
+User: fact about dhoni
+Bot: MS Dhoni announced his retirement from international cricket on August 15, 2020.
+--------------------------------------------------
+User: which team did dhoni captain in ipl
+Bot: Dhoni became the captain of the Indian team in 2007.
+--------------------------------------------------
+User: dhoni ipl
+Bot: MS Dhoni has won two IPL titles as captain of Chennai Super Kings (2010, 2011).
+--------------------------------------------------
+User: thanks for everything
+Bot: , you are a great host! The apartment is perfect for those who want to visit the city and stay in a quiet area. The house is just a few minutes from the center by public transport. Highly recommended! Silvia 2017-05
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+--------------------------------------------------
+User: what is deep learning
+Bot: Deep learning is a subset of machine learning methods based on neural networks with representation learning. The field takes inspiration from biological neuroscience and is centered around stacking artificial neurons into layers and "training" them to process data. The adjective "deep" refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+Tokens used: 11
+Estimated cost: $0.000220
+--------------------------------------------------
+User: hi
+Bot: Hey there! How can I help you today?
+Tokens used: 11
+Estimated cost: $0.000220
+--------------------------------------------------
+User: news about elon musk
+Bot: Latest news on about elon musk: Elon Musk Is a National Security Risk. Read more: https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/
+Tokens used: 47
+Estimated cost: $0.000940
+--------------------------------------------------
+User: tell me about deep learning
+Bot: Deep learning is a subset of machine learning methods based on neural networks with representation learning. The field takes inspiration from biological neuroscience and is centered around stacking artificial neurons into layers and "training" them to process data. The adjective "deep" refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.
+Tokens used: 78
+Estimated cost: $0.001560
+--------------------------------------------------
+User: tell me about artificial intelligence
+Bot: Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.
+Tokens used: 75
+Estimated cost: $0.001500
+--------------------------------------------------
+User: tell me about radioactivity
+Bot: Radioactive decay is the process by which an unstable atomic nucleus loses energy by radiation. A material containing unstable nuclei is considered radioactive. Three of the most common types of decay are alpha, beta, and gamma decay. The weak force is the mechanism that is responsible for beta decay, while the other two are governed by the electromagnetism and nuclear force.
+Tokens used: 76
+Estimated cost: $0.001520
+--------------------------------------------------
+User: random fact about rohit sharma
+Bot: Rohit is the second Indian to score centuries in all three formats of international cricket (Tests, ODIs, T20s).
+Tokens used: 34
+Estimated cost: $0.000680
+--------------------------------------------------
+User: when did ms dhoni retire
+Bot: MS Dhoni is one of the fastest runners between the wickets.
+Tokens used: 20
+Estimated cost: $0.000400
+--------------------------------------------------
+User: random fact about dhoni
+Bot: MS Dhoni announced his retirement from international cricket on August 15, 2020.
+Tokens used: 23
+Estimated cost: $0.000460
+--------------------------------------------------
+User: thanks!
+Bot: that worked for me too!
+
+I have the same problem. I’ve tried all of the above suggestions and nothing has worked. Any other ideas?
+
+I’m having the same problem. I’ve tried all of the above suggestions and nothing has worked. Any
+Tokens used: 52
+Estimated cost: $0.001040
+--------------------------------------------------

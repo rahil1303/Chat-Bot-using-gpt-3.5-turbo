@@ -1,0 +1,34 @@
+{
+    "shoes": [
+        {
+            "model": "neon air jordans",
+            "sizes": {
+                "10": {
+                    "store": "Utrecht",
+                    "price": 120,
+                    "availability": true
+                },
+                "9": {
+                    "store": "Rotterdam",
+                    "price": 110,
+                    "availability": true
+                }
+            }
+        },
+        {
+            "model": "classic adidas",
+            "sizes": {
+                "11": {
+                    "store": "Amsterdam",
+                    "price": 100,
+                    "availability": true
+                },
+                "8": {
+                    "store": "Hague",
+                    "price": 90,
+                    "availability": true
+                }
+            }
+        }
+    ]
+}

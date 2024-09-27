@@ -1,0 +1,80 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;  /* Pitch black background */
+    color: white;
+    overflow: hidden; /* Remove any scrollbars */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;  /* Full viewport width */
+    height: 100vh;  /* Full viewport height */
+    padding: 0;
+}
+
+.chat-box {
+    width: 100vw;  /* Full viewport width */
+    height: 85vh;  /* Adjust to fit comfortably with input field */
+    background-color: #141414;  /* Dark grey for the chatbox */
+    padding: 20px;
+    overflow-y: auto;
+    color: white;
+}
+
+.chat-box .user-message {
+    text-align: right;
+    color: #f5f5f5;  /* White for user messages */
+    margin-bottom: 10px;
+}
+
+.chat-box .bot-message {
+    text-align: left;
+    color: #b3b3b3;  /* Light grey for bot messages */
+    margin-bottom: 10px;
+}
+
+.input-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    padding: 0 20px;
+    background-color: #000000;
+    position: absolute;
+    bottom: 0;
+    height: 8vh; /* To limit the input field's height */
+}
+
+input {
+    flex-grow: 1;
+    padding: 15px;
+    border-radius: 5px 0 0 5px;
+    border: 1px solid #000000;
+    background-color: #333;
+    color: white;
+}
+
+button {
+    background-color: #e50914;  /* Netflix red for buttons */
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #f40612; /* Slightly brighter red on hover */
+}
+
+button:focus {
+    outline: none;
+}
